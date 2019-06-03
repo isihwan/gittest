@@ -2,6 +2,7 @@
 
 int main() {
 	printf("hello world English!\n");
+	printf("new feature %s\n", 3);
 	return 0;
 }
 
